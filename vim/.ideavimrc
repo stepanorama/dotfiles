@@ -1,0 +1,3 @@
+inoremap jk <Esc>
+nnoremap gh 0
+nnoremap gl $
