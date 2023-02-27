@@ -122,4 +122,7 @@ source /Users/deniss/.tmc-autocomplete.sh || true
 #THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
 export SDKMAN_DIR="$HOME/.sdkman"
 [[ -s "$HOME/.sdkman/bin/sdkman-init.sh" ]] && source "$HOME/.sdkman/bin/sdkman-init.sh"
+export CLASSPATH=.:~/workspace/classes/
 
+
+export TERM=xterm-kitty

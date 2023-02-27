@@ -1,0 +1,7 @@
+[user]
+	name = stepanorama
+	email = stepanorama@outlook.com
+[core]
+	editor = hx
+[credential]
+	helper = osxkeychain
