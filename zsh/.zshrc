@@ -126,3 +126,7 @@ export CLASSPATH=.:~/workspace/classes/
 
 
 export TERM=xterm-kitty
+
+# aliases
+alias glog="git log --all --graph --decorate"
+alias jobs="jobs -l"
