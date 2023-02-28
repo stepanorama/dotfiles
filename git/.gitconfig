@@ -2,6 +2,6 @@
 	name = stepanorama
 	email = stepanorama@outlook.com
 [core]
-	editor = hx
+	editor = nvim
 [credential]
 	helper = osxkeychain
